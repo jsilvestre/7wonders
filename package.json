@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "lodash": "4.17.5",
+    "redux": "3.7.2",
+    "redux-node-logger": "0.1.0",
+    "uuid": "3.2.1",
+    "ws": "5.1.0"
+  }
+}
